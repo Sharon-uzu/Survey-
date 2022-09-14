@@ -1,0 +1,49 @@
+body{
+    width: 99%;
+    background-color: #29295a;
+    color:#29295a ;
+    height: 90vh;
+    /* display: flex;
+    justify-content: center;
+    justify-items: center;
+    align-items: center;
+    align-content: center; */
+   
+}
+
+form {
+    width: 60%;
+   background-color: hsla(0, 0%, 100%, 0.8);
+    margin: auto;
+    text-align: center;
+    padding: 1rem 0;
+    margin-top: 4rem;
+    
+}
+input{
+    color:#29295a ;
+    border-radius: 5px;
+    outline: transparent solid 2px;
+}
+textarea{
+    border-radius: 5px;
+    
+}
+form button{
+    color: white;
+    border: 1px solid #29295a;
+    background-color: #29295a;
+    padding: .7rem 1rem;
+    border-radius: 20px;
+    margin: .2rem 0 0 1rem;
+}
+select{
+    height: 38px;
+    line-height: 1.75rem;
+     outline-offset: 2px; 
+    outline: transparent solid 1px;
+    border-radius: 5px;
+    width: 25%;
+    margin-left: 1rem;
+    
+}
